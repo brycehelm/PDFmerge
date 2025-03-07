@@ -1,5 +1,8 @@
 -------How to Use the Script----------
 
+Start by installing pyPDF2
+pip install pypdf2
+
 Save the Script: Copy the code above into a file, for example, merge_pdfs.py.
 Prepare Your PDFs: Ensure you have your PDF files ready. They can be named anything, but you'll need to know their file names or paths. For example, let's assume they are named file1.pdf, file2.pdf, ..., file15.pdf and are in the same directory as your script.
 Run the Script: Open a terminal or command prompt, navigate to the directory containing your script and PDF files, and run the script with the following command:
